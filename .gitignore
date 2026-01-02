@@ -1,0 +1,10 @@
+# Ignorar carpeta de imágenes
+Imagen/
+
+# Ignorar archivos zip grandes
+*.zip
+
+# Ignorar imágenes sueltas
+*.jpg
+*.png
+*.jpeg 
